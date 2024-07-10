@@ -7,7 +7,8 @@
         <h1>Meu Ebook Digital Gerado com IA</h1>
 </header>
 
-Como Criar um Ebook Digital com a Ajuda da Inteligência Artificial (IA)
+
+Para Criar um Ebook Digital com a Ajuda da Inteligência Artificial (IA)
 Escolha do Assunto
 
 Primeiro, pense em um assunto que você goste muito e que queira compartilhar com outras pessoas. Pode ser sobre um hobby, um jogo, um livro favorito, ou qualquer coisa que você ache interessante.
@@ -34,50 +35,16 @@ Microsoft Word, Google Docs: Para organizar seu ebook.
 PDF Converter: Para transformar seu ebook em um arquivo PDF para compartilhar.
 Criar um ebook com IA pode ser muito divertido e uma ótima maneira de compartilhar suas ideias com o mundo! Experimente e divirta-se aprendendo e criando!
 
-
-
 </body>
 </html>
 
-
-# Projeto EBOOK Gerado por I.A.s
-
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
-
-
-## 💻 Tecnologias utilizadas no projeto
+## 💻 Tecnologias utilizadas que podem ser ultilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
 - [MidJourney](https://www.midjourney.com/app/)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
-## 🧠 Prompts
 
-
-ChatGPT：
-
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
-
-
-Midjourney：
-
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
-
-## ✨ Features
-
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
-
-## 📚 Materiais
-
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
 
 ## 🛠️ Instruções de execução
 
