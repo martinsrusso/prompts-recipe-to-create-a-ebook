@@ -1,3 +1,60 @@
+import turtle
+
+# Configurações da janela
+screen = turtle.Screen()
+screen.title("Desenho do Logotipo do Java")
+screen.bgcolor("white")
+
+# Configurações da tartaruga
+t = turtle.Turtle()
+t.speed(2)
+
+# Função para desenhar a chama do logo do Java
+def draw_flame():
+    t.color("orange")
+    t.begin_fill()
+    t.left(50)
+    t.forward(60)
+    t.circle(20, 180)
+    t.forward(60)
+    t.right(100)
+    t.forward(60)
+    t.circle(20, 180)
+    t.forward(60)
+    t.left(50)
+    t.end_fill()
+
+# Função para desenhar a base do logo do Java
+def draw_base():
+    t.color("black")
+    t.pensize(5)
+    t.penup()
+    t.goto(-50, -50)
+    t.pendown()
+    t.circle(50, steps=3)
+    t.penup()
+    t.goto(0, -50)
+    t.pendown()
+    t.circle(50, steps=3)
+
+# Função principal para desenhar o logotipo do Java
+def draw_java_logo():
+    t.penup()
+    t.goto(-30, 100)
+    t.pendown()
+    draw_flame()
+    t.penup()
+    t.goto(30, 100)
+    t.pendown()
+    draw_flame()
+    draw_base()
+
+# Desenha o logotipo do Java
+draw_java_logo()
+
+# Esconde a tartaruga e exibe a janela
+t.hideturtle()
+turtle.done()
 
 
 
