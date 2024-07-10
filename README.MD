@@ -45,7 +45,3 @@ Criar um ebook com IA pode ser muito divertido e uma ótima maneira de compartil
 
 
 
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
