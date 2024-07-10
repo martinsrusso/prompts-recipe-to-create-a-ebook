@@ -1,32 +1,48 @@
 
 </head>
 <body>
-    <header>
-        <h1>Meu Ebook Digital Gerado com IA</h1>
-    </header>
     
-    <main>
-        <section id="descricao">
-            <h2>Descrição do Ebook</h2>
-            <p>Este ebook foi gerado utilizando ferramentas de Inteligência Artificial. Ele aborda diversos temas relacionados a...</p>
-        </section>
-        
-        <section id="download">
-            <h2>Download do Ebook</h2>
-            <p>Para baixar o ebook, clique no link abaixo:</p>
-            <p><a href="ebook.pdf" download>Baixar Ebook</a></p>
-        </section>
-        
-        <section id="visualizacao">
-            <h2>Visualização Online</h2>
-            <p>Se preferir, você pode visualizar o ebook diretamente aqui:</p>
-            <iframe src="ebook.pdf" width="100%" height="500px" frameborder="0"></iframe>
-        </section>
-    </main>
-    
-    <footer>
-        <p>&copy; 2024 Seu Nome</p>
-    </footer>
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header, main, footer {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+header {
+    text-align: center;
+    background-color: #007bff;
+    color: white;
+}
+
+main {
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+
 </body>
 </html>
 
