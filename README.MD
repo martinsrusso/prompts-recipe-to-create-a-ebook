@@ -1,6 +1,4 @@
 
-    <title>Meu Ebook Digital</title>
-    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
