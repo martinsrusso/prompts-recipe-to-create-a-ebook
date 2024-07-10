@@ -41,8 +41,7 @@ Criar um ebook com IA pode ser muito divertido e uma ótima maneira de compartil
 ## 💻 Tecnologias utilizadas que podem ser ultilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+
 
 
 
