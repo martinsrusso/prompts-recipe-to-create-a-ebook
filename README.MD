@@ -2,46 +2,10 @@
 </head>
 <body>
     
-body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background-color: #f0f0f0;
-}
 
-header, main, footer {
-    width: 80%;
-    margin: 0 auto;
-    padding: 20px 0;
-}
-
-header {
-    text-align: center;
-    background-color: #007bff;
-    color: white;
-}
-
-main {
-    background-color: #fff;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    padding: 20px;
-}
-
-section {
-    margin-bottom: 20px;
-}
-
-footer {
-    text-align: center;
-    padding: 10px;
-    background-color: #007bff;
-    color: white;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
-}
+<header>
+        <h1>Meu Ebook Digital Gerado com IA</h1>
+    </header>
 
 </body>
 </html>
