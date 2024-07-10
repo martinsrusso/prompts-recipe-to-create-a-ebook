@@ -35,14 +35,7 @@
         }
     </style>
 </head>
-<body>
-    <div class="container">
-        <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="Java Logo">
-        <h1>Java Programming Language</h1>
-        <p>Java é uma linguagem de programação popular, conhecida por sua portabilidade e performance.</p>
-    </div>
-</body>
-</html>
+
 
 
 # Projeto EBOOK Gerado por I.A.s
