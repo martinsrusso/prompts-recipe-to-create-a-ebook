@@ -1,61 +1,41 @@
-import turtle
 
-# Configurações da janela
-screen = turtle.Screen()
-screen.title("Desenho do Logotipo do Java")
-screen.bgcolor("white")
-
-# Configurações da tartaruga
-t = turtle.Turtle()
-t.speed(2)
-
-# Função para desenhar a chama do logo do Java
-def draw_flame():
-    t.color("orange")
-    t.begin_fill()
-    t.left(50)
-    t.forward(60)
-    t.circle(20, 180)
-    t.forward(60)
-    t.right(100)
-    t.forward(60)
-    t.circle(20, 180)
-    t.forward(60)
-    t.left(50)
-    t.end_fill()
-
-# Função para desenhar a base do logo do Java
-def draw_base():
-    t.color("black")
-    t.pensize(5)
-    t.penup()
-    t.goto(-50, -50)
-    t.pendown()
-    t.circle(50, steps=3)
-    t.penup()
-    t.goto(0, -50)
-    t.pendown()
-    t.circle(50, steps=3)
-
-# Função principal para desenhar o logotipo do Java
-def draw_java_logo():
-    t.penup()
-    t.goto(-30, 100)
-    t.pendown()
-    draw_flame()
-    t.penup()
-    t.goto(30, 100)
-    t.pendown()
-    draw_flame()
-    draw_base()
-
-# Desenha o logotipo do Java
-draw_java_logo()
-
-# Esconde a tartaruga e exibe a janela
-t.hideturtle()
-turtle.done()
-
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Ebook Digital</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Meu Ebook Digital Gerado com IA</h1>
+    </header>
+    
+    <main>
+        <section id="descricao">
+            <h2>Descrição do Ebook</h2>
+            <p>Este ebook foi gerado utilizando ferramentas de Inteligência Artificial. Ele aborda diversos temas relacionados a...</p>
+        </section>
+        
+        <section id="download">
+            <h2>Download do Ebook</h2>
+            <p>Para baixar o ebook, clique no link abaixo:</p>
+            <p><a href="ebook.pdf" download>Baixar Ebook</a></p>
+        </section>
+        
+        <section id="visualizacao">
+            <h2>Visualização Online</h2>
+            <p>Se preferir, você pode visualizar o ebook diretamente aqui:</p>
+            <iframe src="ebook.pdf" width="100%" height="500px" frameborder="0"></iframe>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 Seu Nome</p>
+    </footer>
+</body>
+</html>
 
 
 # Projeto EBOOK Gerado por I.A.s
