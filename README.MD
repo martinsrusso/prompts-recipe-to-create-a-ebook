@@ -1,6 +1,4 @@
-<p align="center">
-    <img width="100" src="https://github.com/RaphaelClemente/prompts-recipe-to-create-a-ebook/blob/main/output/Game%20of%20Python%20-%20Raphael%20Clemente.pdf">
-</p>
+
 
 
 <p align="center">
