@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="https://github.com/RaphaelClemente/prompts-recipe-to-create-a-ebook/blob/main/assets/Throne.jpeg"
     width="400"  
 />
 </p>
