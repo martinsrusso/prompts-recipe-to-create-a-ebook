@@ -1,92 +1,41 @@
-<p align="center">
-    <img width="100" src=".github/assets/banner.png">
-</p>
+Pele Saudável: Criado com IA – Da Simplicidade ao Avançado
+<p align="center"> <img width="400" src=".github/assets/cover.png"> </p>
+📒 Descrição
+Este projeto apresenta um eBook completo sobre cuidados com a pele, criado utilizando ferramentas de IA generativa. O objetivo é mostrar como tecnologias avançadas podem ser usadas para produzir conteúdos educativos e visuais de alta qualidade.
 
+O eBook aborda tópicos desde conceitos básicos até técnicas avançadas de skincare, tudo isso enriquecido com ilustrações geradas por IA.
 
-<p align="center">
-<a href="https://dio.me/"><img src="https://img.shields.io/badge/DIO-Course-28DA77?logo=youtube" alt="DIO - course"></a>
-<a href="https://www.gnu.org/software/bash/" title="Go to Bash homepage"><img src="https://img.shields.io/badge/Prompt-Project-blue?logo=gnu-bash&amp;logoColor=white" alt="Made with Bash"></a></p>
+📕 Clique aqui para baixar o eBook completo
 
--------
-
-
-<p align="center">
-<img 
-    src="./assets/cover.png"
-    width="400"  
-/>
-</p>
-
-# Projeto EBOOK Gerado por I.A.s
-
-
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
-
-Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
-seguem abaixo.
-
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
-
-## 💻 Tecnologias utilizadas no projeto
-
-- [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
-
-## 🧠 Prompts
-
-
-ChatGPT：
-
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
-
-
-Midjourney：
-
-|  Ação  | prompt                                                                                 |
-| :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
-
-## ✨ Features
-
-- Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
-
-## 📚 Materiais
-
-- Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
-
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
-    &nbsp&nbsp&nbsp
-    <a href="https://github.com/felipeAguiarCode">
-    GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/
-felipe-exe">LinkedIn</a>
-&nbsp;|&nbsp;
-    <a href="https://www.instagram.com/felipeaguiar.exe/">
-    Instagram</a>
-&nbsp;|&nbsp;</p>
-</p>
-<br/><br/>
-<p>
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+💻 Tecnologias Utilizadas
+ChatGPT: Para gerar o conteúdo textual de cada capítulo.
+DALL-E: Para criar as ilustrações únicas de cada capítulo.
+FPDF: Para compilar texto e imagens em um eBook PDF estruturado.
+Google Drive: Para compartilhar o arquivo PDF final.
+🧠 Prompts
+ChatGPT
+Ação	Prompt
+Conteúdo	Gere um texto para um eBook sobre cuidados com a pele, estruturando em capítulos. Cada capítulo deve cobrir um tópico (básico, avançado, etc.), com dicas práticas e uma linguagem simples e acessível.
+DALL-E
+Ação	Prompt
+Capa	Minimalistic and elegant cover design for an eBook titled 'Pele Saudável: Do Básico...'
+Capítulos	Minimalistic illustrations representing skincare routines, hydration, and ingredients.
+✨ Features
+Ebook Digital: Conteúdo educativo gerado com IA.
+Imagens Exclusivas: Ilustrações feitas com DALL-E.
+Prático e Acessível: Um guia para todos os níveis de conhecimento em skincare.
+📚 Materiais
+Todas as imagens estão disponíveis na pasta assets.
+O eBook gerado está disponível no seguinte link:
+📕 Baixe o eBook Aqui
+🛠️ Como Reproduzir Este Projeto
+Geração do Conteúdo:
+Utilize o ChatGPT para criar os textos baseando-se nos prompts fornecidos.
+Criação das Imagens:
+Use o DALL-E para gerar as ilustrações associadas a cada capítulo.
+Montagem do Ebook:
+Compile o texto e as imagens usando uma ferramenta como FPDF (Python) ou software de design (PowerPoint, Canva, etc.).
+Publicação:
+Disponibilize o eBook em um link acessível, como Google Drive.
+👨‍💻 Autor
+<p align="center"> <img width="80" src="https://avatars.githubusercontent.com/u/37452836?v=4"> </p> <p align="center"> Felipe Aguiar <br> <a href="https://github.com/felipeAguiarCode">GitHub</a> | <a href="https://linkedin.com/in/felipe-exe">LinkedIn</a> | <a href="https://www.instagram.com/felipeaguiar.exe/">Instagram</a> </p>
