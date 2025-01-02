@@ -31,7 +31,7 @@ seguem abaixo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Leonardo](https://leonardo.ai/)
-- [Canva]
+- [Canva](https://www.canva.com/design/DAGa_F-ZVqM/gQNUhEw6P69kPwHXzbRClg/edit?utm_content=DAGa_F-ZVqM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## 🧠 Prompts
 
