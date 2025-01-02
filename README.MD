@@ -31,7 +31,7 @@ seguem abaixo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Leonardo](https://leonardo.ai/)
-- [Canva](https://www.canva.com/design/DAGa_F-ZVqM/gQNUhEw6P69kPwHXzbRClg/edit?utm_content=DAGa_F-ZVqM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Powerpoint](https://github.com/MariaClaudiaL/prompts-recipe-to-create-a-ebook)
 
 ## 🧠 Prompts
 
@@ -40,15 +40,15 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Trabalho com Propósito: A Arte do Bem-Estar Empresarial                                                       |
-| conteúdo | Faça um texto para um e-book profissional com foco em dicas com ações da empresa para com os funcionários cujo objetivo é melhorar a produtividade em equilíbrio com a saúde física e mental dos funcionários com o tema Trabalho com propósito: a arte do bem estar empresarial |
+|  título  | Guia Prático: Landing Pages que convertem                                                     |
+| conteúdo | Faça um texto para um e-book profissional com foco em dicas com ações para criar uma landing page|
 
 
 Leonardo.ai 
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | create an image of a modern office with a vibrant green tree growing in the center |
+| título | crie um design moderno e minimalistas que remetam ao digital, como ícones de cliques ou graficos de conversão com cores vibrantes |
 
 ## ✨ Features
 
