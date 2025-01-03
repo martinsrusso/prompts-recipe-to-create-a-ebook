@@ -31,7 +31,7 @@ seguem abaixo.
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Leonardo](https://leonardo.ai/)
-- [Powerpoint](https://github.com/MariaClaudiaL/prompts-recipe-to-create-a-ebook)
+- [Libreoffice Impress](https://github.com/MariaClaudiaL/prompts-recipe-to-create-a-ebook)
 
 ## 🧠 Prompts
 
