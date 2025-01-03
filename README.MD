@@ -53,7 +53,7 @@ Leonardo.ai
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via Leonardo.ai
+- Imagens geradas via Leonardo.ai e Freepik
 
 ## 📚 Materiais
 
