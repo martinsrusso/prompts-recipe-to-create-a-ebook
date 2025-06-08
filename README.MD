@@ -22,7 +22,7 @@ ChatGPT：
 |  título  | crie um titulo de um ebook sobre o tema  “Desvendando a IA: Como Funciona a Mente das Máquinas”
 - Explica o básico de redes neurais, aprendizado supervisionado, exemplos com Python, Midjourney e GPT.
 - Público: iniciantes, recrutadores, colegas.. 
-- o titulo deve ser curto, me liste 5 variações de títulos                                                      |
+- o titulo deve ser curto, me liste 5 variações de títulos. |  
 | conteúdo | Faça um texto para ebook sobre o básico de redes neurais, aprendizado supervisionado, exemplos com Python, Midjourney e GPT, regras:
 - explique sempre de uma maneira simples;
 - exemplos de código em contexto reais;
