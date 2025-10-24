@@ -2,6 +2,14 @@
     <img width="100" src=".github/assets/banner.png">
 </p>
 
+-------
+
+<p align="center">
+<img 
+    src="./assets/cover.png"
+    width="400"  
+/>
+</p>
 
 # Projeto EBOOK Gerado por I.A.s
 
@@ -39,5 +47,6 @@ Faça um texto para ebook , com foco em CSS, listando os principais seletores CS
 - Imagens utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
+---
 
-⌨️ com 💜 por [Leonardo Nascimento](https://github.com/martinsrusso)
+⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
