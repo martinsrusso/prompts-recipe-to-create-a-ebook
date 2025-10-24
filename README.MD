@@ -49,4 +49,4 @@ Faça um texto para ebook , com foco em CSS, listando os principais seletores CS
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Leonardo Nascimento](https://github.com/martinsrusso)
